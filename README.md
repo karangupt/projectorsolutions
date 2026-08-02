@@ -2,7 +2,7 @@
 
 Yeh website Sunrise LED Technology (sunriseledtech.com) ke layout/structure se inspire hoke banayi gayi hai,
 lekin saara content **Projector Solutions** (projectorsolutions.in) ka real data use kiya gaya hai —
-projector rental, LED wall rental, home theater setup, corporate rentals, aadi.
+projector rental, LED wall rental, home theater setup, corporate rentals , aadi.
 
 ## Kya kiya gaya hai (v2 — Multi-Page)
 - Sunrise jaisa structure: Hero → About → Services range → Why choose us → Products cards → Industries → Testimonials → Areas → FAQ → Contact → Footer
